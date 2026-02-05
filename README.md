@@ -11,9 +11,9 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
 3. Make sure that the reel/post is from a public account not private account.
 5. Even Downloads Stories/Highlights **(Make sure to use the right application to download it)**.
 4. Choose the appropriate downloader option:
-   - **Instagram_downloader(post):** Downloads only Pictures uploaded by the admin.
-   - **Instagram_downloader(thumbnail):** Downloads only Thumbnails from the reel in JPG format.
-   - **Instagram_downloader(reel):** Downloads Reel and stories.
+   - `Instagram_downloader(post):` Downloads only Pictures uploaded by the admin.
+   - `Instagram_downloader(thumbnail):` Downloads only Thumbnails from the reel in JPG format.
+   - `Instagram_downloader(reel):` Downloads Reel and stories.
 5. Type exit when you are done and hit enter.
 
 ---
