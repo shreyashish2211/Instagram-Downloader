@@ -36,4 +36,4 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
 - Ensure your internet connection is stable and good for faster and more reliable downloads.
 - If anytime the downloader fails randomly try to download it again and again, then also if it fails please make sure to update FFmpeg and download the latest build which i will be providing in Github.
 
-Thank you for downloading
+Thank you for checking out this project!
