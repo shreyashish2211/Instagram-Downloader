@@ -36,4 +36,16 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
 - Ensure your internet connection is stable and good for faster and more reliable downloads.
 - If anytime the downloader fails randomly try to download it again and again, then also if it fails please make sure to update FFmpeg and download the latest build which i will be providing in Github.
 
+---
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=Instagram-Downloader%2FInstagram-Downloader&type=date&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Instagram-Downloader/Instagram-Downloader&type=date&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Instagram-Downloader/Instagram-Downloader&type=date&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Instagram-Downloader/Instagram-Downloader&type=date&logscale&legend=top-left" />
+ </picture>
+</a>
+
 Thank you for checking out this project!
