@@ -15,18 +15,17 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
    - `Instagram_downloader(thumbnail):` Downloads only Thumbnails from the reel in JPG format.
    - `Instagram_downloader(reel):` Downloads Reel and stories.
 5. Type exit when you are done and hit enter.
+6. **Linux Usage:** If using the compiled binary, navigate to the directory in your terminal and run the program using ./app_name.
 
 ---
 
 ## __Requirements__
 
-- __This works only in Windows as this is a Windows build(I can't make other os builds).__
-- __Make sure you have FFmpeg installed.__
-  __To install via Windows, open Terminal or PowerShell(preferably as Administrator) and run this command:__
-  ```
-  winget install FFmpeg
-  ```
-- __The program may show a security warning the first time you run it. If this happens, click on More info -> Run anyway.__
+* **Compatibility:** __This works in Windows i.e Windows 10 & 11 and Linux (I can't make macOS build).__
+
+> [!Note]
+> The program may show a security warning the first time you run the compiled app __*on Windows*__. If this happens, click on
+>- **More info -> Run anyway.**
 
 ---
 
@@ -34,7 +33,7 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
 
 - Running PowerShell or Terminal as Administrator is recommended, though not always required.
 - Ensure your internet connection is stable and good for faster and more reliable downloads.
-- If anytime the downloader fails randomly try to download it again and again, then also if it fails please make sure to update FFmpeg and download the latest build which i will be providing in Github.
+- If anytime the downloader fails randomly try to download it again and again, then also if it fails please make sure to download the latest build which i will be providing in Github.
 
 ---
 
