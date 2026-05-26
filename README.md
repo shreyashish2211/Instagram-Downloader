@@ -33,7 +33,7 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
 
 - Running PowerShell or Terminal as Administrator is recommended, though not always required.
 - Ensure your internet connection is stable and good for faster and more reliable downloads.
-- If anytime the downloader fails randomly try to download it again and again, then also if it fails please make sure to download the latest build which i will be providing in Github.
+- If anytime the downloader fails randomly try to download it again, then also if it fails please make sure to download the latest build which I would be providing in  Github.
 
 ---
 
