@@ -22,7 +22,31 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
 ## __Requirements__
 
 * **Compatibility:** __This works in Windows i.e Windows 10 & 11 and Linux (I can't make macOS build).__
+* __You have to install FFmpeg to run the app; otherwise, the downloader wouldn't work__
+* __Installation via Windows, open Terminal or PowerShell(preferably as Administrator) and run this command:__
+  ```
+  winget install FFmpeg
+  ```
+  ```
+  winget install Nodejs
+  ```
+* __Installation via Linux, open Terminal and run these command:__
 
+   - For Fedora, CentOS, and RHEL linux distros
+     ```
+     sudo dnf swap 'ffmpeg-free' 'ffmpeg' --allowerasing
+     ```
+     ```
+     sudo dnf install nodejs
+     ```
+   - For Ubuntu, Debian, Mint, and Kali Linux distros
+     ```
+     sudo apt install ffmpeg
+     ```
+     ```
+     sudo apt install nodejs npm 
+     ```
+   - For other Linux distros/macOS search in the internet 
 > [!Note]
 > The program may show a security warning the first time you run the compiled app __*on Windows*__. If this happens, click on
 >- **More info -> Run anyway.**
