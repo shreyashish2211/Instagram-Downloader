@@ -34,7 +34,7 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
 
    - For Fedora, CentOS, and RHEL linux distros
      ```
-     sudo dnf swap 'ffmpeg-free' 'ffmpeg' --allowerasing
+     sudo dnf install ffmpeg --allowerasing
      ```
      ```
      sudo dnf install nodejs
