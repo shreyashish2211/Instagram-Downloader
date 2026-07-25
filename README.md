@@ -1,6 +1,6 @@
-# __Instagram Downloader__
+# __Instagram-Downloader__
 
-Have you ever thought to download insta reels or post but insta doesn't let you do that though sometimes insta does provides you to download feature for some reels with watermark of the original creator who had posted the reel, and is restricted to your phone. But now you can freely download any instagram content of your favourite content creator. This is only limited to public account **so make sure that the reel, story or post is from a public account not from a private account**, otherwise it will throw an error. 
+Have you ever thought to download insta reels or posts, but Insta doesn't let you do that? Sometimes Insta does provide you with a download feature for some reels with a watermark of the original creator who posted the reel, and it is restricted to your phone. But now you can freely download any Instagram content of your favourite content creator. This is only limited to public accounts **so make sure that the reel, story or post is from a public account, not from a private account**, otherwise it will throw an error. 
 
 ---
 
@@ -8,12 +8,12 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
 
 1. Copy the URL link of the Reel/Post you want to download.
 2. Paste the URL link into "Enter the link to download." when you start the app.
-3. Make sure that the reel/post is from a public account not private account.
+3. Make sure that the reel/post is from a public account, not a private account.
 5. Even Downloads Stories/Highlights **(Make sure to use the right application to download it)**.
 4. Choose the appropriate downloader option:
    - `Instagram_downloader(post):` Downloads only Pictures uploaded by the admin.
-   - `Instagram_downloader(thumbnail):` Downloads only Thumbnails from the reel in JPG format.
-   - `Instagram_downloader(reel):` Downloads Reel and stories.
+   - `Instagram_downloader(thumbnail):` Downloads only thumbnails from the reel in JPG format.
+   - `Instagram_downloader(reel):` Downloads reels and stories.
 5. Type exit when you are done and hit enter.
 6. **Linux Usage:** If using the compiled binary, navigate to the directory in your terminal and run the program using ./app_name.
 
@@ -21,7 +21,7 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
 
 ## __Requirements__
 
-* **Compatibility:** __This works in Windows i.e Windows 10 & 11 and Linux (I can't make macOS build).__
+* **Compatibility:** __This works in Windows, i.e Windows 10 & 11, and Linux (I can't make macOS build).__
 * __You have to install FFmpeg to run the app; otherwise, the downloader wouldn't work__
 * __Installation via Windows, open Terminal or PowerShell(preferably as Administrator) and run this command:__
   ```
@@ -30,9 +30,9 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
   ```
   winget install Nodejs
   ```
-* __Installation via Linux, open Terminal and run these command:__
+* __Installation via Linux: open Terminal and run these commands:__
 
-   - For Fedora, CentOS, and RHEL linux distros
+   - For Fedora, CentOS, and RHEL Linux distros
      ```
      sudo dnf install ffmpeg --allowerasing
      ```
@@ -46,7 +46,7 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
      ```
      sudo apt install nodejs npm 
      ```
-   - For other Linux distros/macOS search in the internet 
+   - For other Linux distros/macOS, search on the internet 
 > [!Note]
 > The program may show a security warning the first time you run the compiled app __*on Windows*__. If this happens, click on
 >- **More info -> Run anyway.**
@@ -57,7 +57,20 @@ Have you ever thought to download insta reels or post but insta doesn't let you 
 
 - Running PowerShell or Terminal as Administrator is recommended, though not always required.
 - Ensure your internet connection is stable and good for faster and more reliable downloads.
-- If anytime the downloader fails randomly try to download it again, then also if it fails please make sure to download the latest build which I would be providing in  Github.
+- **If the downloader fails randomly at any time, try downloading it again and again; then also, if it fails, please make sure to download the latest build, which I will be providing on GitHub.**
+
+---
+
+## License
+
+This project's source code is licensed under the LGPL v2.1.
+
+<div align="right">
+<table><td>
+<a href="#start-of-content">👆 Scroll to top</a>
+</td></table>
+</div>
+
 
 ---
 
