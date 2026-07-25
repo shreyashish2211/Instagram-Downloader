@@ -82,5 +82,5 @@ This project's source code is licensed under the LGPL v2.1.
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Instagram-Downloader/Instagram-Downloader&type=date&logscale&legend=top-left" />
  </picture>
 </a>
-https://github.com/shreyashish2211/Instagram-Downloader/edit/main/README.md
+
 Thank you for checking out this project!
