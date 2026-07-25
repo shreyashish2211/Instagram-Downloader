@@ -63,7 +63,7 @@ Have you ever thought to download insta reels or posts, but Insta doesn't let yo
 
 ## License
 
-This project's source code is licensed under the LGPL v2.1.
+This project is licensed under the LGPL v2.1.
 
 <div align="right">
 <table><td>
