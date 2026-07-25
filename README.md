@@ -71,13 +71,12 @@ This project's source code is licensed under the LGPL v2.1.
 </td></table>
 </div>
 
-
 ---
 
 ## Star History
 
 <a href="https://www.star-history.com/?repos=Instagram-Downloader%2FInstagram-Downloader&type=date&logscale=&legend=top-left">
- <picture>
+ <picture>Fix grammar and update README formatting
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Instagram-Downloader/Instagram-Downloader&type=date&theme=dark&logscale&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Instagram-Downloader/Instagram-Downloader&type=date&logscale&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Instagram-Downloader/Instagram-Downloader&type=date&logscale&legend=top-left" />
