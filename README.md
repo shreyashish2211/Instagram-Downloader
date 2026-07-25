@@ -1,6 +1,6 @@
 # __Instagram-Downloader__
 
-Have you ever thought to download insta reels or posts, but Insta doesn't let you do that? Sometimes Insta does provide you with a download feature for some reels with a watermark of the original creator who posted the reel, and it is restricted to your phone. But now you can freely download any Instagram content of your favourite content creator. This is only limited to public accounts **so make sure that the reel, story or post is from a public account, not from a private account**, otherwise it will throw an error. 
+Have you ever tried to download Insta reels or posts, but Insta doesn't let you? Sometimes Insta does provide you with a download feature for some reels with a watermark of the original creator who posted the reel, and it is restricted to your phone. But now you can freely download any Instagram content of your favourite content creator. This is only limited to public accounts **so make sure that the reel, story or post is from a public account, not from a private account**, otherwise it will throw an error. 
 
 ---
 
