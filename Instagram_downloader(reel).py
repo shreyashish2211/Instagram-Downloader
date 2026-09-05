@@ -4,9 +4,8 @@ import os
 
 def download_reel(link):
     ydl_opts = {
-        'format': 'bestvideo*+bestaudio/best',
+        'format': 'bestvideo+bestaudio/best',
         'outtmpl': '%(title)s_%(id)s.%(ext)s',
-        'format': 'bestvideo+bestaudio/best', # Select best quality video and audio, then merge
         'postprocessors': [{
                 'key': 'FFmpegMetadata',  # Key to activate metadata embedding
             },
