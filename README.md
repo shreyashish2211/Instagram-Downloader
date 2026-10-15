@@ -21,8 +21,8 @@ Have you ever tried to download Insta reels or posts, but Insta doesn't let you?
 
 ## __Requirements__
 
-* **Compatibility:** __This works in Windows, i.e Windows 10 & 11, and Linux (I can't make macOS build).__
-* __If you use the source code instead of the compiled app (*You have to Install FFmpeg, if you are using the compiled app*), you must install the following:__
+* **Compatibility:** __This works on Windows i.e Windows 10 & 11, and Linux (I can't make a macOS build).__
+* __If you use the source code instead of the compiled app (*You have to install FFmpeg if you are using the compiled app*), you must install the following:__
     * `yt-dlp` library and `yt-dlp-ejs` dependency.
     * `FFmpeg`
     * `Node.js`
@@ -58,7 +58,7 @@ Have you ever tried to download Insta reels or posts, but Insta doesn't let you?
 
 ## __Tips__
 
-- Use the source code recommended.
+- Use the source code; it's more recommended than using the compiled app.
 - Running PowerShell or Terminal as Administrator is recommended, though not always required.
 - Ensure your internet connection is stable and good for faster and more reliable downloads.
 - **If the downloader fails randomly at any time, try downloading it again and again; then also, if it fails, please make sure to download the latest build, which I will be providing on GitHub.**
