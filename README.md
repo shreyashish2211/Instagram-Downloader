@@ -15,7 +15,7 @@ Have you ever tried to download Insta reels or posts, but Insta doesn't let you?
    - `Instagram_downloader(thumbnail):` Downloads only thumbnails from the reel in JPG format.
    - `Instagram_downloader(reel):` Downloads reels and stories.
 5. Type exit when you are done and hit enter.
-6. **Linux Usage:** If using the compiled binary, navigate to the directory in your terminal and run the program using ./app_name.
+6. **Linux Usage:** If using the compiled binary, navigate to the directory in your terminal and run the program using **./app_name.**
 
 ---
 
